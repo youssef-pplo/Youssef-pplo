@@ -12,6 +12,7 @@
 📚 Passionate about AI, ML, and Deep Learning<br>
 🎓 Second-year student at Gamal Abd Elnasser Secondary School<br>
 🧠 Avid reader, coder, and chess enthusiast<br>
+🎲 Fun fact <b>I have arachnophobia</b><br>
 </p>
 
 ### <a href="https://pplo.dev" style="color: #00c4cc; font-size: 1.3em; text-decoration: none;">🌐 Personal Website: pplo.dev</a>
