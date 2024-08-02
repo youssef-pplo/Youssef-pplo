@@ -58,6 +58,17 @@
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
 </div>
 
+
+---
+
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=youssef-pplo&theme=monokai&no-frame=false&no-bg=false&margin-w=4)
+
+---
+
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
+
 ---
 
 ## 📫 How to Reach Me
