@@ -76,12 +76,24 @@
 <b>A'ool Eh - Lege-cy</b>
 </div>
 
+
+<div align="center">
+  <a href="https://open.spotify.com/user/31roz4bjzm3gccry5bmzk5egb2ey">
+    <img src="https://spotify-recently-played-readme.vercel.app/api?user=31roz4bjzm3gccry5bmzk5egb2ey&count=3&unique=false" alt="Spotify recently played"  />
+  </a>
+</div>
+
+###
+
+<br clear="both">
+
+
 ---
 
 ![Profile Views](https://api.visitorbadge.io/api/visitors?path=pplo)
 
 <div style="font-size: 0.9em; margin-top: 20px;">
-© Youssef Elsaid, 2017-2024
+© Youssef Elsaid, 2017-2024 
 </div>
 
 </div>
