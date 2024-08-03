@@ -21,6 +21,7 @@
 
 ## 🛠 Skills & Technologies
 
+
 ### <div style="font-size: 1.5em; font-weight: bold; color: #ff4081;">💻 Programming Languages</div>
 <div style="margin-top: 10px; display: flex; justify-content: center; flex-wrap: wrap; gap: 10px;">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
@@ -61,15 +62,6 @@
 
 ---
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=youssef-pplo&theme=monokai&no-frame=false&no-bg=false&margin-w=4)
-
----
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
-
----
 
 ## 📫 How to Reach Me
 
@@ -82,21 +74,16 @@
 
 ---
 
-## 🎵 Current Favorite Song
-<div style="color: #ffd700; font-size: 1.5em;">
-<b>A'ool Eh - Lege-cy</b>
-</div>
+## 🎵 Recently played
+
 
 
 <div align="center">
   <a href="https://open.spotify.com/user/31roz4bjzm3gccry5bmzk5egb2ey">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=31roz4bjzm3gccry5bmzk5egb2ey&count=3&unique=false" alt="Spotify recently played"  />
+    <img src="https://spotify-recently-played-readme.vercel.app/api?user=31roz4bjzm3gccry5bmzk5egb2ey&count=1&unique=false" alt="Spotify recently played"  />
   </a>
 </div>
 
-###
-
-<br clear="both">
 
 
 ---
