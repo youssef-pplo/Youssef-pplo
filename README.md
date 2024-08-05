@@ -3,7 +3,7 @@
 
 # Hi there, I'm Youssef Elsaid (pplo.dev) 👋
 
----
+
 
 <div style="font-size: 1.7em; font-weight: bold; margin-bottom: 10px;">🚀 About Me</div>
 <p style="font-size: 1.2em; max-width: 600px; line-height: 1.5;">
@@ -74,19 +74,7 @@
 
 ---
 
-## 🎵 Recently played
 
-
-
-<div align="center">
-  <a href="https://open.spotify.com/user/31roz4bjzm3gccry5bmzk5egb2ey">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=31roz4bjzm3gccry5bmzk5egb2ey&count=1&unique=false" alt="Spotify recently played"  />
-  </a>
-</div>
-
-
-
----
 
 ![Profile Views](https://api.visitorbadge.io/api/visitors?path=pplo)
 
