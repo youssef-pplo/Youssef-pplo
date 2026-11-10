@@ -10,7 +10,6 @@
 🌍 I'm from Alexandria, Egypt<br>
 🧑‍💻 Developer with expertise in 30+ programming languages<br>
 📚 Passionate about AI, ML, and Deep Learning<br>
-🎓 Second-year student at Gamal Abd Elnasser Secondary School<br>
 🧠 Avid reader, coder, and chess enthusiast<br>
 🎲 Fun fact <b>I have arachnophobia</b><br>
 </p>
@@ -79,7 +78,7 @@
 ![Profile Views](https://api.visitorbadge.io/api/visitors?path=pplo)
 
 <div style="font-size: 0.9em; margin-top: 20px;">
-© Youssef Elsaid, 2017-2024 
+© Youssef Elsaid, 2017-2027
 </div>
 
 </div>
